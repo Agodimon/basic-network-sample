@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">basic-network-sample</string>
+    <string name="photo">photo</string>
+    <string name="success">success</string>
+    <string name="error">error</string>
+    <string name="no_data">Sorry, no data!</string>
+</resources>
